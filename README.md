@@ -23,11 +23,9 @@
 ├─ main.py                  # simple single-frame GLPN demo (improved version)
 ├─ pcloud.py                # sample mesh -> point cloud (.npy/.ply) + visualization
 ├─ rotation.py              # augmentation example & DataLoader usage
-├─ realtime_pipeline.py     # integrated capture -> accumulate -> reconstruct -> sample pipeline
-├─ meshes/                  # output meshes (mesh_0000.obj ...)
+├─ mesh.obj                 # output mesh
 ├─ data/                    # saved camera frames (optional)
 ├─ pcloud.npy               # sampled point cloud (created by pipeline)
-├─ aug_pclouds.npy          # augmented dataset (created by pipeline)
 └─ README.md
 ```
 
