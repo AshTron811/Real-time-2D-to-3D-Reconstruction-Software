@@ -168,5 +168,3 @@ python rotation.py
 Built by **Ashutosh Sharma** — feel free to open issues or PRs on GitHub for enhancements, bug reports, or questions.
 
 ---
-
-**Want more?** I can also generate a `requirements.txt`, `environment.yml` (CPU/GPU variants), a Dockerfile, or CONTRIBUTING/ISSUE\_TEMPLATE files — tell me which and I’ll add them.
