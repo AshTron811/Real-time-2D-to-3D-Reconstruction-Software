@@ -163,12 +163,6 @@ python rotation.py
 
 ---
 
-## License
-
-This project is available under the **MIT License**. Add a `LICENSE` file to the repo with the MIT text (recommended).
-
----
-
 ## Contact
 
 Built by **Ashutosh Sharma** — feel free to open issues or PRs on GitHub for enhancements, bug reports, or questions.
