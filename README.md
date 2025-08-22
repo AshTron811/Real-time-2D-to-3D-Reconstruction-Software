@@ -6,12 +6,6 @@
 
 ---
 
-## Demo
-
-> *(Replace **`docs/demo.gif`** with a short screen capture of the pipeline in action)*
-
----
-
 ## Features
 
 * Real-time webcam capture → monocular depth estimation using `vinvino02/glpn-nyu` (Hugging Face `transformers`).
